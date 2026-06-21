@@ -142,7 +142,7 @@ mindmap
 <td width="50%" valign="top">
 
 ### ❤️ Heart-IQ — Cardiac Prediction System
-[![Live](https://img.shields.io/badge/🌐_Live-heartiqsystem.streamlit.app-6AD3F7?style=flat-square)](https://heartiqsystem.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-heartiqai.vercel.app-f953c6?style=for-the-badge)](https://heartiqai.vercel.app/)
 [![Repo](https://img.shields.io/github/stars/Umangpandey75/HeartIQ-4th-year-project?style=social)](https://github.com/Umangpandey75/HeartIQ-4th-year-project)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
