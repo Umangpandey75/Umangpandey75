@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- ═══════════ ANIMATED WAVING HEADER (from Amritansh style) ═══════════ -->
+<!-- ═══════════ ANIMATED WAVING HEADER ) ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,70:16213e,100:0d1117&height=260&section=header&text=Umang%20Pandey&fontSize=62&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20ML%20Engineer%20🚀&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=6AD3F7&stroke=58A6FF&strokeWidth=2" width="100%" alt="Umang Pandey Header"/>
 
 <!-- ═══════════ TYPING ANIMATION ═══════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=6AD3F7&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=70&lines=🐍+Python+Developer+%7C+B.Tech+CSE+%40+NITRA;📊+Building+interactive+Power+BI+dashboards;🤖+Predictive+ML+models+%26+Streamlit+apps;🗄️+SQL+%7C+DAX+%7C+Data+Pipelines+%7C+EDA;🚀+10+Projects+shipped+%7C+Open+to+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD3F7&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Umang+Pandey;🎓+B.Tech+CSE+Student+%7C+NITRA;🐍+Python+Developer+%7C+Full-Stack+Enthusiast;🤖+AI%2FML+Projects+%7C+Data+Analytics;📊+Power+BI+%7C+SQL+%7C+Data+Visualization;🚀+Building+Real-World+Projects+for+Impact;💼+Open+to+Internships+and+Job+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ═══════════ QUICK STATS BADGES (from Amritansh style) ═══════════ -->
+<!-- ═══════════ QUICK STATS BADGES  ═══════════ -->
 ![Location](https://img.shields.io/badge/📍_Location-Ghaziabad%2C_India-0e75b6?style=for-the-badge)
 &nbsp;
 ![Degree](https://img.shields.io/badge/🎓_B.Tech_CSE-NITRA_Technical_Campus-9B59B6?style=for-the-badge)
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<!-- ═══════════ SOCIAL LINKS (from Amritansh style) ═══════════ -->
+<!-- ═══════════ SOCIAL LINKS  ═══════════ -->
 <a href="mailto:umangpandey.co@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>&nbsp;
