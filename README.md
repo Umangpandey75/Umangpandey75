@@ -15,7 +15,7 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/💼_Status-Open_to_Internships-27AE60?style=for-the-badge)
 &nbsp;
-![Projects](https://img.shields.io/badge/🚀_Projects-10_Shipped-F39C12?style=for-the-badge)
+![Projects](https://img.shields.io/badge/🚀_Projects-40%2B_Shipped-F39C12?style=for-the-badge)
 
 <br/><br/>
 
@@ -56,9 +56,9 @@ class UmangPandey:
         "SQL Server schema design & optimisation",
     ]
 
-    total_projects  = 10
-    commits         = "180+"
-    lines_of_code   = "8k+"
+    total_projects  = 40+
+    commits         = "280+"
+    lines_of_code   = "12k+"
     philosophy      = "Query the data. Build the insight. Ship the WOW ✨"
     open_to         = ["Internships", "Freelance", "Collaborations"]
 
