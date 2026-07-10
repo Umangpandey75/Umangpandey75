@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 
-<a href="https://umangpandey.vercel.app">
+<a href="https://umangpandey.in">
   <img src="https://img.shields.io/badge/Portfolio-6AD3F7?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>&nbsp;
 
@@ -472,7 +472,7 @@ gantt
 <a href="https://github.com/Umangpandey75">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>&nbsp;
-<a href="https://umangpandey.vercel.app">
+<a href="https://umangpandey.in">
   <img src="https://img.shields.io/badge/🌐_Portfolio-umangpandey.vercel.app-6AD3F7?style=for-the-badge" alt="Portfolio"/>
 </a>
 
